@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "ReaperLAS",
+        "email": "me@example.com"
+    },
+    "records": {
+        "CNAME": "reaperlas.github.io"
+    }
+}
